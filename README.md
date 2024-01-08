@@ -1,4 +1,4 @@
 # SDL-game-Love2d-version
 SDL-game-Love2d-version
 
-This version is an adaptation of Pikuma C game
+Inspired by this [C SDL game](https://github.com/gustavopezzi/sdl-gameloop). 
